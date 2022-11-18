@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* text-align: center; */
+}
+.first-box{
+    height: 600px;
+    width:90%;
+    border: 2px solid black;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.small-first-box{
+    height: 20px;
+    width: 40px;
+    border: 2px solid black;
+    position: absolute;
+    background-color: red;
+}
+.small-first-box1{
+    height: 20px;
+    width: 40px;
+    border: 2px solid black;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: red;
+}
