@@ -1,0 +1,24 @@
+.box1{
+    position: relative;
+    border: 2px black solid;
+}
+.box2{
+    background-color: red;
+    height: 15%;
+    width: 20%;
+    position: absolute;
+}
+.main-box{
+    width: 60%;
+    height: 600px;
+    margin:30px 20%;
+}
+.small-box{
+    right: 0;
+    bottom: 0;
+}
+.main-box2{
+    width: 60%;
+    height: 60%;
+    margin: 15% 20%;
+}
